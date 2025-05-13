@@ -23,7 +23,7 @@ Here are a few of the projects I’ve built:
 
 - ✈️ **[Airlines Reservation System](https://github.com/AnushkaGyawali/AirlineTicketingSystem)**  
   Web-based airline booking platform with authentication and booking management.
-  Live :https://anushkagyawali.github.io/AirlineTicketingSystem/
+
 
 - 🛍 **[Online Auction System](https://github.com/AnushkaGyawali/AuctionTrial)**  
   Real-time product bidding system built with PHP and JavaScript.
