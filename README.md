@@ -21,7 +21,7 @@ I'm Anushka, a BE.IT student with a passion for crafting modern and meaningful d
 
 Here are a few of the projects I’ve built:
 
-- ✈️ **[Airlines Reservation System](https://github.com/AnushkaGyawali/AirlineTicketingSystem.gihub.io))**  
+- ✈️ **[Airlines Reservation System](https://github.com/AnushkaGyawali/airline-reservation-system))**  
   Web-based airline booking platform with authentication and booking management.
   
 
