@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Anushka Gyawali
 
-🎓 IT Engineering student | 💻 Aspiring Full-Stack & Mobile App Developer  
+💻 Aspiring Full-Stack & Mobile App Developer  
 📍 Based in Nepal | 🌐 Passionate about tech that empowers people
 
 ---
