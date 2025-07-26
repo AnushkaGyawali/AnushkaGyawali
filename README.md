@@ -1,66 +1,82 @@
-# 👋 Hello, I'm Anushka Gyawali
+# Hi there, I'm Anushka Gyawali! 👋
 
-💻 Aspiring Full-Stack & Mobile App Developer  
-📍 Based in Nepal | 🌐 Passionate about tech that empowers people
+Welcome to my GitHub profile!
 
----
+## 🌐 About Me
 
-### 🚀 About Me
+I'm a **BE.IT student** from **Nepal** with a deep passion for building meaningful digital solutions. I specialize in:
 
-I'm Anushka, a BE.IT student with a passion for crafting modern and meaningful digital experiences. I specialize in front-end web development and have experience in building full-stack applications and cross-platform mobile apps.
+* Full-stack web development
+* Cross-platform mobile app development
 
-🔧 **Tech Stack**  
-- 💻 Web: HTML, CSS, JavaScript, PHP  
-- 🛠 Backend: MySQL, SQL Server  
-- 📱 Mobile: Flutter, Firebase  
-- 🌐 Tools: Git, GitHub, VS Code, XAMPP
+I’m currently focused on modern frontend technologies and cloud integration.
 
 ---
 
-### 📂 Projects
+## 📚 Tech Stack
 
-Here are a few of the projects I’ve built:
+**Languages:**
 
-- ✈️ **[Airlines Reservation System](https://github.com/AnushkaGyawali/airline-reservation-system))**  
-  Web-based airline booking platform with authentication and booking management.
-  
+* HTML, CSS, JavaScript
+* PHP, Dart
 
+**Frontend:**
 
-- 🛍 **[Online Auction System](https://github.com/AnushkaGyawali/AuctionTrial)**  
-  Real-time product bidding system built with PHP and JavaScript.
+* Tailwind CSS, Vanilla JS
+* React (learning)
 
-- 🆘 **[Women Safety App](https://github.com/AnushkaGyawali/women_safety_app)**  
-  Flutter app that sends SOS messages with GPS location to trusted contacts.
+**Backend & Database:**
+
+* MySQL, SQL Server
+
+**Mobile:**
+
+* Flutter
+
+**Cloud & Tools:**
+
+* Firebase (Auth, Firestore, Hosting, Functions)
+* Git, GitHub, VS Code, XAMPP
 
 ---
 
-### 🌱 I’m Currently Learning
+## 🎨 Featured Projects
 
-- React.js & modern frontend frameworks  
-- Advanced Firebase features  
-- Backend development using Node.js
+### [Echo Tasks](https://echotasks.netlify.app/)
+
+A responsive To-Do app with real-time sync using Firebase. Built with Vanilla JS & Tailwind CSS.
+
+> Tech: HTML, CSS, JS, Firebase
+
+### [Women Safety App](https://github.com/AnushkaGyawali/women_safety_app)
+
+A Flutter-based emergency alert system with real-time location tracking.
+
+> Tech: Flutter, Firebase, Twilio, OpenStreetMap
+
+### [DigiScript](https://digiscript.netlify.app/)
+
+A collection of web-based tools for digital image manipulation.
+
+> Tech: JS, Canvas API, PDF-lib
 
 ---
 
-### 📫 Let's Connect
+## 🔄 Currently Learning
 
-- 🔗 [LinkedIn](https://linkedin.com/in/anushka-gyawali)  
-- ✉️ gyawalianushka@gmail.com
+* React.js and modern frontend frameworks
+* Backend with Node.js
+* Advanced Firebase integrations
 
+---
 
+## 📞 Contact Me
 
+* **Email:** [gyawalianushka@gmail.com](mailto:gyawalianushka@gmail.com)
+* **LinkedIn:** [linkedin.com/in/anushka-gyawali](https://linkedin.com/in/anushka-gyawali)
+* **GitHub:** [github.com/AnushkaGyawali](https://github.com/AnushkaGyawali)
+* **Portfolio:** [portfolio-anushkagyawali.netlify.app](https://portfolio-anushkagyawali.netlify.app/#)
 
-<!--
-**AnushkaGyawali/AnushkaGyawali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Thanks for stopping by! Feel free to connect or collaborate. Let’s build something awesome together! ✨
