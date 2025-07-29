@@ -40,25 +40,13 @@ I’m currently focused on modern frontend technologies and cloud integration.
 
 ---
 
-## 🎨 Featured Projects
-
-### [Echo Tasks](https://echotasks.netlify.app/)
-
-A responsive To-Do app with real-time sync using Firebase. Built with Vanilla JS & Tailwind CSS.
-
-> Tech: HTML, CSS, JS, Firebase
+## 🎨 Projects
 
 ### [Women Safety App](https://github.com/AnushkaGyawali/women_safety_app)
 
 A Flutter-based emergency alert system with real-time location tracking.
 
 > Tech: Flutter, Firebase, Twilio, OpenStreetMap
-
-### [DigiScript](https://digiscript.netlify.app/)
-
-A collection of web-based tools for digital image manipulation.
-
-> Tech: JS, Canvas API, PDF-lib
 
 ###[Airlines Reservation System](https://airlineticket.netlify.app/)
 A dynamic web-based application allowing users to book, cancel, and manage airline reservations. Features user authentication, real-time seat availability, and booking history.
@@ -69,6 +57,20 @@ A dynamic web-based application allowing users to book, cancel, and manage airli
 A real-time web-based bidding platform allowing users to list items and place bids, complete with dynamic bid updates, user registration, and an admin panel.
 
 >Tech: HTML, CSS, JavaScript, PHP, MySQL
+
+### [Echo Tasks](https://echotasks.netlify.app/)
+
+A responsive To-Do app with real-time sync using Firebase. Built with Vanilla JS & Tailwind CSS.
+
+> Tech: HTML, CSS, JS, Firebase
+
+### [DigiScript](https://digiscript.netlify.app/)
+
+A collection of web-based tools for digital image manipulation.
+
+> Tech: JS, Canvas API, PDF-lib
+
+
 ---
 
 ## 🔄 Currently Learning
