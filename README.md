@@ -60,6 +60,15 @@ A collection of web-based tools for digital image manipulation.
 
 > Tech: JS, Canvas API, PDF-lib
 
+###[Airlines Reservation System](https://airlineticket.netlify.app/)
+A dynamic web-based application allowing users to book, cancel, and manage airline reservations. Features user authentication, real-time seat availability, and booking history.
+
+>Tech: HTML, CSS, JavaScript, PHP, MySQL
+
+###[Online Auction System](https://sixsemprojectdemo.netlify.app )
+A real-time web-based bidding platform allowing users to list items and place bids, complete with dynamic bid updates, user registration, and an admin panel.
+
+>Tech: HTML, CSS, JavaScript, PHP, MySQL
 ---
 
 ## 🔄 Currently Learning
