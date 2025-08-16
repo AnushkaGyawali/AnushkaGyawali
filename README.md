@@ -86,7 +86,7 @@ A collection of web-based tools for digital image manipulation.
 * **Email:** [gyawalianushka@gmail.com](mailto:gyawalianushka@gmail.com)
 * **LinkedIn:** [linkedin.com/in/anushka-gyawali](https://linkedin.com/in/anushka-gyawali)
 * **GitHub:** [github.com/AnushkaGyawali](https://github.com/AnushkaGyawali)
-* **Portfolio:** [portfolio-anushkagyawali.netlify.app](https://portfolio-anushkagyawali.netlify.app/#)
+* **Portfolio:** [Portfolio](https://anushkagyawali.com.np/)
 
 ---
 
